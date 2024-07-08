@@ -1,0 +1,12 @@
+{
+  "name": "cluster-pulse",
+  "version": "1.0.0",
+  "description": "a pulser server to check if kubernetes cluster is up and running",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start" : "node server.js"
+  },
+  "author": "Masum-Osman",
+  "license": "ISC"
+}
